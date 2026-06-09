@@ -1,10 +1,3 @@
-
-
-
-
-
-* Python
-* Hugging Face Transformers
 # Prompt Playground
 
 This repository contains experiments with Large Language Models (LLMs), chatbot development, and prompt engineering using GPT-2 and LLaMA models.
